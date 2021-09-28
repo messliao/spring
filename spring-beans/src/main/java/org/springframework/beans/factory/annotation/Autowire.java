@@ -15,7 +15,7 @@
  */
 
 package org.springframework.beans.factory.annotation;
-//git test
+//git test fbfb
 import org.springframework.beans.factory.config.AutowireCapableBeanFactory;
 //确定装配状态的枚举类，一个bean是否应该让它的依赖 被spring容器通过setter方法自动注入）(可以用于基于注解的自动配置)
 /**
